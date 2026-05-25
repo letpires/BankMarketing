@@ -478,26 +478,6 @@ elif pagina == "Simulador de Campanha":
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 elif pagina == "Inferência Cliente":
 
     st.title("Inferência de Cliente")
